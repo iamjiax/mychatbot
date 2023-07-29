@@ -1,7 +1,7 @@
 # mychatbot
 A Chatbot that can answer questions on your own pdf. Build using LangChain, OpenAI API and Streamlit.
 
-## Start app:
+## Start app
 ```streamlit run app.py```
 
 ## Resources
